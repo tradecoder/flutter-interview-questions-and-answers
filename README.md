@@ -17,3 +17,6 @@ Answer: The main() function is the entry point of a Flutter application. It is r
 
 ## 5. What is Widget in Flutter?
 Answer: In Flutter, a widget is a visual element that represents a part of the user interface of an app. All elements like buttons, text boxes, images that a user can view on the screen or interact with are widgets.
+
+## What is the difference between StatelessWidget and StatefulWidget?
+Answer: A StatelessWidget does not have mutable state. It is used if the UI does not need to change or update any state. And a StatefulWidget has mutable state. It is used if the UI needs to change or update state any time. 
