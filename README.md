@@ -14,3 +14,6 @@ Answer: A garbage collected language is a type of programming language where the
 
 ## 4. What is the purpose of the main() function?
 Answer: The main() function is the entry point of a Flutter application. It is responsible for creating and running the app’s widgets, handling any errors that occur during app execution, and setting up the app’s initial state.
+
+## 5. What is Widget in Flutter?
+Answer: In Flutter, a widget is a visual element that represents a part of the user interface of an app. All elements like buttons, text boxes, images that a user can view on the screen or interact with are widgets.
