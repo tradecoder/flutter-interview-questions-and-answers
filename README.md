@@ -8,3 +8,6 @@ Answer: Flutter is an open-source and popular mobile app development framework c
 
 ## 2. What is Dart and why it is used in Flutter?
 Answer: Dart is a programming language created by Google that is used to develop Flutter apps. It is an object-oriented, garbage-collected language that supports both just-in-time (JIT) and ahead-of-time (AOT) compilation. Dart is used in Flutter because it is fast, efficient, and provides features such as hot reloading and strong typing.
+
+## 3. What is Garbage-Collected (GC) language?
+Answer: A garbage collected language is a type of programming language where the memory management is handled automatically by the system. The language runtime system automatically tracks the usage of memory and frees up memory that is no longer being used. It helps avoiding memory leaks and other related issues. Some garbage collected (GC) languages are Dart, Java, Python, and Ruby.
