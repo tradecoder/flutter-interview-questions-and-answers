@@ -11,3 +11,6 @@ Answer: Dart is a programming language created by Google that is used to develop
 
 ## 3. What is Garbage-Collected (GC) language?
 Answer: A garbage collected language is a type of programming language where the memory management is handled automatically by the system. The language runtime system automatically tracks the usage of memory and frees up memory that is no longer being used. It helps avoiding memory leaks and other related issues. Some garbage collected (GC) languages are Dart, Java, Python, and Ruby.
+
+## 4. What is the purpose of the main() function?
+Answer: The main() function is the entry point of a Flutter application. It is responsible for creating and running the app’s widgets, handling any errors that occur during app execution, and setting up the app’s initial state.
